@@ -11,6 +11,7 @@ public class Program5
 		System.setProperty("webdriver.chrome.driver","C:/Users/Lakshmi/Downloads/chromedriver-win64/chromedriver.exe");
 		WebDriver driver=new ChromeDriver();
 		
+		//changes done
 		driver.get("https://www.facebook.com/");
 		Thread.sleep(1000);
 		
