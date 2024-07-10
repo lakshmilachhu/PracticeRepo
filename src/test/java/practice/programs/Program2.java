@@ -12,6 +12,7 @@ public class Program2
 		
 		driver.manage().window().maximize();
 		
+		//add comment
 		driver.get("https://www.google.com");
 		Thread.sleep(2000);
 		
