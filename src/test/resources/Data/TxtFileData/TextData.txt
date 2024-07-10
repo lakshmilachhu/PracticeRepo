@@ -1,0 +1,6 @@
+empId=Typ1486
+name=Lakshmi
+email=lakshmi@ty.com
+salary=4.5
+place=Mandya
+pwd=lacchu
